@@ -56,4 +56,5 @@ section::after {
   left: 50%;
   top: 30%;
   transform: translate(-50%, -30%);
+  z-index: 1;
 }
